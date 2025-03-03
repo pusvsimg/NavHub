@@ -6,7 +6,7 @@
 
 NaviHub 是一个简洁优雅的网络导航页面，为用户提供了一个集中管理和快速访问常用网站的平台。项目采用现代化的设计理念，提供了流畅的用户体验和响应式布局。
 
-![NaviHub 预览](https://user-images.githubusercontent.com/your-username/NaviHub/preview.png)
+![NaviHub 预览](demo.png)
 
 ## 功能特点
 
